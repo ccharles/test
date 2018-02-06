@@ -1,6 +1,7 @@
 [
   // Illegal comment
   {
-    "foo": "bar"
+    "foo": "bar",
+    "baz": 1
   }
 ]
