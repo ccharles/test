@@ -1,3 +1,14 @@
+<div align="center">
+
+  <a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
+  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
+  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
+
+</div>
+
+
+
+
 # This is a test project
 
 See [Image from relative path in Jupyter Markdown cell not rendering on Github][1]
