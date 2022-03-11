@@ -20,6 +20,20 @@ Herp derp
 3. Four
 
 
+```cs
+record Rec(string Name, int Age);
+
+public static void Main()
+{
+    var x = new Locked<Rec>(new ("John", 35)); 
+}
+```
+
+```cs
+var x= new Locked<Rec>(new ("John", 35)); 
+```
+
+
 
 `` `foo bar ``
 
