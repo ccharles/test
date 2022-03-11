@@ -30,6 +30,14 @@ public static void Main()
 ```
 
 ```cs
+public static void Main()
+{
+  record Rec(string Name, int Age);
+  var x = new Locked<Rec>(new ("John", 35)); 
+}
+```
+
+```cs
 var x= new Locked<Rec>(new ("John", 35)); 
 ```
 
