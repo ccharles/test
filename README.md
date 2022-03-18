@@ -6,6 +6,10 @@
 
 </div>
 
+![](https://placekitten.com/200/300 "image text")
+
+![](https://via.placeholder.com/728x90.png?text=Hello+Stack+Overflow "image text")
+
 1. One
 1. Two
 
