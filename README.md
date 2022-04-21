@@ -11,6 +11,18 @@
 
 ![](https://placekitten.com/200/300 "image text")
 
+# A list with an anchor
+
+- One
+- Two
+    - Eh
+    - Bee
+
+<ul>
+  <li>Foo</li>
+  <li id="bar">Bar</li>
+</ul>
+
 ![](https://via.placeholder.com/728x90.png?text=Hello+Stack+Overflow "image text")
 
 1. One
@@ -25,20 +37,6 @@ Herp derp
 
 3. Three
 3. Four
-
-
-
-# A list with an anchor
-
-- One
-- Two
-    - Eh
-    - Bee
-
-<ul>
-  <li>Foo</li>
-  <li id="bar">Bar</li>
-</ul>
 
 
 ```cs
