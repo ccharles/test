@@ -6,6 +6,9 @@
 
 </div>
 
+[Link to Bar](#bar)
+<a href="#bar">Link to Bar</a>
+
 ![](https://placekitten.com/200/300 "image text")
 
 ![](https://via.placeholder.com/728x90.png?text=Hello+Stack+Overflow "image text")
@@ -49,6 +52,18 @@ var x= new Locked<Rec>(new ("John", 35));
 
 `` `foo bar ``
 
+
+# A list with an anchor
+
+- One
+- Two
+    - Eh
+    - Bee
+
+<ul>
+  <li>Foo</li>
+  <li id="bar">Bar</li>
+</ul>
 
 
 
