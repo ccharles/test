@@ -27,6 +27,20 @@ Herp derp
 3. Four
 
 
+
+# A list with an anchor
+
+- One
+- Two
+    - Eh
+    - Bee
+
+<ul>
+  <li>Foo</li>
+  <li id="bar">Bar</li>
+</ul>
+
+
 ```cs
 record Rec(string Name, int Age);
 
@@ -51,20 +65,6 @@ var x= new Locked<Rec>(new ("John", 35));
 
 
 `` `foo bar ``
-
-
-# A list with an anchor
-
-- One
-- Two
-    - Eh
-    - Bee
-
-<ul>
-  <li>Foo</li>
-  <li id="bar">Bar</li>
-</ul>
-
 
 
 # This is a test project
