@@ -6,6 +6,10 @@
 
 </div>
 
+Here's an image:
+
+![](imgs/python-logo.png)
+
 [Link to Bar](#bar)
 <a href="#bar">Link to Bar</a>
 
