@@ -87,5 +87,17 @@ See [Image from relative path in Jupyter Markdown cell not rendering on Github][
     spanning several lines</dd>
 </dl>
 
+<table>
+  <tr>
+    <th>Head 1</th>
+    <td>Col 1</td>
+  </tr>
+  <tr>
+    <th>Head 2</th>
+    <td>Col 2</td>
+  </tr>
+</table>
+
+
 [1]: https://stackoverflow.com/q/62799256/354577
 
